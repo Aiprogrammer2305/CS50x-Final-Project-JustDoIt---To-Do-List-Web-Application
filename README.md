@@ -43,8 +43,9 @@ sudo apt-get install astyle
 # Upgrade styling tools for the latest features
 sudo pip install --upgrade style50
 
+```
  
-Documentation and References
+## Documentation and References
 
     Python Documentation
     Flask Documentation
@@ -52,12 +53,12 @@ Documentation and References
     CS50 Library Documentation
     Style50 Documentation
 
-Recommended Development Environment
+## Recommended Development Environment
 
 Visual Studio Code is an excellent editor for working with this project. It offers features such as debugging, syntax highlighting, intelligent code completion, and Git integration, making it a great tool for efficient development.
 Cloning the Repository
 
-To clone the project repository, ensure Git is installed:
+## To clone the project repository, ensure Git is installed:
 
 # Install Git (if not already installed)
 sudo apt-get install git  
@@ -65,7 +66,7 @@ sudo apt-get install git
 # Clone the repository
 git clone https://github.com/Aiprogrammer2305/CS50x-Final-Project-JustDoIt---To-Do-List-Web-Application.git  
 
-Code Style Testing
+## Code Style Testing
 
 Ensure the code adheres to clean coding principles. Navigate to the project directory and run the following command:
 
@@ -80,7 +81,7 @@ app.py
 Looks good!  
 But consider adding more comments!  
 
-Deployment
+## Deployment
 
 To run the application locally, execute the following commands:
 
@@ -91,7 +92,7 @@ export FLASK_APP=app.py
 flask run  
 
 The application will be available at http://127.0.0.1:5000.
-Project Structure
+## Project Structure
 
     Static Files: CSS, JavaScript, and images are stored in the static directory.
     HTML Templates: Located in the templates directory, these define the structure and layout of the web pages.
@@ -101,7 +102,7 @@ Project Structure
         done.db: SQLite database storing user data and task information.
         requirements.txt: Lists all Python dependencies required to run the app.
 
-Technologies Used
+## Technologies Used
 
     Python 3: Backend programming language
     Flask: Web framework for Python
@@ -110,6 +111,6 @@ Technologies Used
     Bootstrap: CSS framework for responsive design
     CS50 Library: Simplifies Python programming for this project
 
-Author
+## Author
 
 Himanshu Ganesh Warulkar
