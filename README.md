@@ -60,13 +60,13 @@ Cloning the Repository
 
 ## To clone the project repository, ensure Git is installed:
 
-# Install Git (if not already installed)
+### Install Git (if not already installed)
 sudo apt-get install git  
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/Aiprogrammer2305/CS50x-Final-Project-JustDoIt---To-Do-List-Web-Application.git  
 
-## Code Style Testing
+### Code Style Testing
 
 Ensure the code adheres to clean coding principles. Navigate to the project directory and run the following command:
 
